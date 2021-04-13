@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.92aa617a.chunk.css",
-    "main.js": "./static/js/main.b0b695bc.chunk.js",
-    "main.js.map": "./static/js/main.b0b695bc.chunk.js.map",
+    "main.css": "./static/css/main.4029e101.chunk.css",
+    "main.js": "./static/js/main.4eb613da.chunk.js",
+    "main.js.map": "./static/js/main.4eb613da.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.699ea300.js",
     "runtime-main.js.map": "./static/js/runtime-main.699ea300.js.map",
-    "static/js/2.7175e766.chunk.js": "./static/js/2.7175e766.chunk.js",
-    "static/js/2.7175e766.chunk.js.map": "./static/js/2.7175e766.chunk.js.map",
+    "static/js/2.27fe947f.chunk.js": "./static/js/2.27fe947f.chunk.js",
+    "static/js/2.27fe947f.chunk.js.map": "./static/js/2.27fe947f.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.92aa617a.chunk.css.map": "./static/css/main.92aa617a.chunk.css.map",
-    "static/js/2.7175e766.chunk.js.LICENSE.txt": "./static/js/2.7175e766.chunk.js.LICENSE.txt",
+    "static/css/main.4029e101.chunk.css.map": "./static/css/main.4029e101.chunk.css.map",
+    "static/js/2.27fe947f.chunk.js.LICENSE.txt": "./static/js/2.27fe947f.chunk.js.LICENSE.txt",
     "static/media/africa.37b5411e.mp3": "./static/media/africa.37b5411e.mp3",
     "static/media/black-popup-bg.489a3175.png": "./static/media/black-popup-bg.489a3175.png",
     "static/media/black-popup.62500e04.mp3": "./static/media/black-popup.62500e04.mp3",
@@ -57,6 +57,8 @@
     "static/media/slide-usa-6.1736149c.png": "./static/media/slide-usa-6.1736149c.png",
     "static/media/southamerica.30bff61c.png": "./static/media/southamerica.30bff61c.png",
     "static/media/southamerica.4bd55b7f.mp3": "./static/media/southamerica.4bd55b7f.mp3",
+    "static/media/sudan.328a0d2d.png": "./static/media/sudan.328a0d2d.png",
+    "static/media/sudan.83cf871c.mp3": "./static/media/sudan.83cf871c.mp3",
     "static/media/tour-end-bg.afed7d00.png": "./static/media/tour-end-bg.afed7d00.png",
     "static/media/tour-start.cb8d5454.png": "./static/media/tour-start.cb8d5454.png",
     "static/media/triangular-trade.c3d4ab36.png": "./static/media/triangular-trade.c3d4ab36.png",
@@ -67,8 +69,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.699ea300.js",
-    "static/js/2.7175e766.chunk.js",
-    "static/css/main.92aa617a.chunk.css",
-    "static/js/main.b0b695bc.chunk.js"
+    "static/js/2.27fe947f.chunk.js",
+    "static/css/main.4029e101.chunk.css",
+    "static/js/main.4eb613da.chunk.js"
   ]
 }
